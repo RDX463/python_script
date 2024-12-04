@@ -44,4 +44,4 @@ Ensure you have the following installed:
 2. Place your log file in the same directory as the script and rename it to `server_logs.txt` (or adjust the file path in the script).
 3. Run the script:
    ```bash
-   python log_file_analyzer.py
+   python loganalyzer.py
