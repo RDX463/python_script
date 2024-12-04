@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Log File Analyzer** is a Python script that processes server log files to extract and analyze key information such as:
+The **Log File Analyzer** is a Python script that processes log files to extract and analyze key information such as:
 - **Requests per IP address**: Counts how many requests were made from each IP.
 - **Most accessed endpoints**: Identifies frequently accessed resources (e.g., `/home`, `/login`).
 - **Suspicious activity**: Detects failed login attempts and the IP addresses responsible.
